@@ -99,6 +99,12 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/ca400c0e-192d-4038-841f-7d4928093466) <br />
 
+- For the first time running, you will encounter this <br />
+
+![image](https://github.com/user-attachments/assets/cbd22ec5-3ad8-4594-ba27-98b308403755) <br />
+
+Just select C / C++ Compiler that highlighted, and you good to go
+
 ## Pro Tip
 
 - If your terminal is overfilled just type ```clear```
