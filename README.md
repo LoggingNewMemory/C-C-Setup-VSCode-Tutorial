@@ -1,9 +1,10 @@
 # C / C++ Setup Tutorial For Visual Studio Code For Windows
 ### Tutorial By: Kanagawa Yamada
+### Read and follow the instruction carefully (don't just rely on image provided, you also need to read the text)
 
 Prerequisites: 
 1. [VSCode Installer](https://code.visualstudio.com/download)
-2. [MSYS2](https://www.msys2.org/) 
+2. [MSYS2](https://www.msys2.org/)
 
 ## Configuring MinGW Compiler
 
