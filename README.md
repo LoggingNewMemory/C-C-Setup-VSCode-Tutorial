@@ -20,6 +20,10 @@ Prerequisites:
 
 ![image](https://github.com/user-attachments/assets/7e9c043b-68e9-4b88-8e9c-2102f5943439) <br />
 
+7. Wait until finish (It will finish if the terminal already like this) <br />
+
+[Your Computer Name]in MINGW64 ~ <br />
+
 ## Configure System Path
 
 1. Go to control panel and search for "Edit the system environment variables" <br />
