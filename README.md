@@ -59,7 +59,21 @@ Prerequisites:
 
 ![image](https://github.com/user-attachments/assets/c32ccdb4-b660-4401-be3a-0d43702fa646) <br />
 
-2. Write hello world program (Or you can paste my code)
+2. Make a folder for VSCode (This will be the parent folder for VSCode) <br />
+
+![image](https://github.com/user-attachments/assets/023ff72d-55b3-41e8-abde-50d6609b1f7d) <br />
+
+3. Open the folder that you created <br />
+
+![image](https://github.com/user-attachments/assets/b485d478-6129-4290-8d36-5fefca586639) <br />
+
+4. Make the new file (Hello World)
+
+![image](https://github.com/user-attachments/assets/fb5a38b5-f57e-477e-8218-0ac3dd28fbef) <br />
+
+![image](https://github.com/user-attachments/assets/f49edd49-e062-4589-b084-ff48a06fb96c) <br />
+
+5. Write hello world program (Or you can paste my code)
 
 ```
 #include <stdio.h>
@@ -71,11 +85,11 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/b9e728ad-d6a2-4ff2-902b-db3bc1d1a1b9) <br />
 
-3. Run the program <br />
+6. Run the program <br />
 
 ![image](https://github.com/user-attachments/assets/2541aed9-2c66-4763-ae29-9ff2e547a323) <br />
 
-4. You can see the output on terminal tab <br />
+7. You can see the output on terminal tab <br />
 
 ![image](https://github.com/user-attachments/assets/7dc8647e-899e-473e-81c6-f7de4fd65e93) <br />
 
