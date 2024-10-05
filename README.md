@@ -85,3 +85,6 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/ca400c0e-192d-4038-841f-7d4928093466) <br />
 
+## Pro Tip
+
+- If your terminal is overfilled just type ```clear```
