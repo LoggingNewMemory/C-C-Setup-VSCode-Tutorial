@@ -61,7 +61,7 @@ Prerequisites:
 
 ## Configure VSCode
 
-1. Open VSCode and install "C / C++ Extension Pack" extension <br />
+1. Open VSCode and install "C / C++ Extension Pack" extension (You may skip the "Get Started Page" <br />
 
 ![image](https://github.com/user-attachments/assets/c32ccdb4-b660-4401-be3a-0d43702fa646) <br />
 
