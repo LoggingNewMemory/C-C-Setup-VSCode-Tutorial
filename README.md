@@ -43,9 +43,7 @@ Prerequisites:
 
 ![image](https://github.com/user-attachments/assets/9aa3d3f3-1fcc-4c1f-81e8-1a7ddedf0771) <br />
 
-7. Press Ok and close all windows
-
-5. Press Ok
+7. Press Ok and close all windows by keep pressing ok
 
 ## Verify if MinGW correcty installed
 
