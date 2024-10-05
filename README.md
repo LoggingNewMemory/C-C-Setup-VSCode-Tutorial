@@ -8,8 +8,7 @@ Prerequisites:
 ## Configuring MinGW Compiler
 
 1. Download MSYS2, and install it (Do not change anything)
-2. Search for "MSYS2 MINGW64" app in start menu and open it<br />
-It will open a MSYS2 terminal
+2. Search for "MSYS2 MINGW64" app in start menu and open it. It will open a MSYS2 terminal
 
 ![image](https://github.com/user-attachments/assets/17909a80-fd61-4a84-8dd0-9e1e2190c172) <br />
 
