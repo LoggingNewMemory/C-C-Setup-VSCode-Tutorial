@@ -73,7 +73,7 @@ Prerequisites:
 
 ![image](https://github.com/user-attachments/assets/b485d478-6129-4290-8d36-5fefca586639) <br />
 
-4. Make the new file (Hello World) (You must add .c in the file name extension. Example: Hello.c)
+4. Make the new file (Hello World) (You must add .c in the file name extension. Example: Hello.c) (Or Hello.cpp if you use C++)
 
 ![image](https://github.com/user-attachments/assets/fb5a38b5-f57e-477e-8218-0ac3dd28fbef) <br />
 
