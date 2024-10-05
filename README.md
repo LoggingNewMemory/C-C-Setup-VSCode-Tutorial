@@ -12,8 +12,11 @@ Prerequisites:
 
 ![image](https://github.com/user-attachments/assets/17909a80-fd61-4a84-8dd0-9e1e2190c172) <br />
 
-3. Type ```pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain``` and hit enter (DO NOT COPY, YOU HAVE TO TYPE IT)
-4. Type y and let the installation finish <br />
+3. Type ```pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain``` and hit enter (DO NOT COPY, YOU HAVE TO TYPE IT) <br />
+
+   you will encounter "Enter a selection (default=all). Just hit enter <br />
+   
+5. Type y and let the installation finish <br />
 
 ![image](https://github.com/user-attachments/assets/7e9c043b-68e9-4b88-8e9c-2102f5943439) <br />
 
